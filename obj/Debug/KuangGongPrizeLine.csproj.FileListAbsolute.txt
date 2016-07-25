@@ -1,0 +1,8 @@
+D:\Projects\KuangGongPrizeLine\KuangGongPrizeLine\obj\Debug\KuangGongPrizeLine.csprojResolveAssemblyReference.cache
+D:\Projects\KuangGongPrizeLine\KuangGongPrizeLine\obj\Debug\KuangGongPrizeLine.Properties.Resources.resources
+D:\Projects\KuangGongPrizeLine\KuangGongPrizeLine\obj\Debug\KuangGongPrizeLine.csproj.GenerateResource.Cache
+D:\Projects\KuangGongPrizeLine\KuangGongPrizeLine\bin\Debug\KuangGongPrizeLine.exe
+D:\Projects\KuangGongPrizeLine\KuangGongPrizeLine\bin\Debug\KuangGongPrizeLine.pdb
+D:\Projects\KuangGongPrizeLine\KuangGongPrizeLine\obj\Debug\KuangGongPrizeLine.exe
+D:\Projects\KuangGongPrizeLine\KuangGongPrizeLine\obj\Debug\KuangGongPrizeLine.pdb
+D:\Projects\KuangGongPrizeLine\KuangGongPrizeLine\obj\Debug\PrizeType.Form1.resources
