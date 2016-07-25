@@ -63,6 +63,6 @@ namespace PrizeType
         {
             richTextBox1.Clear();
         }
-
+        //test
     }
 }
